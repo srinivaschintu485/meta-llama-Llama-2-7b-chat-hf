@@ -59,18 +59,6 @@ bitsandbytes (for 4-bit quantization)
 
 Google Colab (for GPU-based training)
 
-📁 Folder Structure
-kotlin
-Copy
-Edit
-Fine-tuning-LLMs/
-│
-├── data/
-│   ├── hawaii_wf_2.txt
-│   └── hawaii_wf_4.txt
-│
-├── Fine_tune_LLMs_on_custom_data.ipynb
-├── README.md
 ⚠️ Prerequisites
 Hugging Face account (for downloading pre-trained models)
 
